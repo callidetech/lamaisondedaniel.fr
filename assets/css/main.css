@@ -1036,11 +1036,12 @@
 /* Table */
 
 	table {
-		width: 100%;
+		width: 90%;
 	}
 
 		table.default {
 			width: 100%;
+			font-size: smaller;
 		}
 
 			table.default tbody tr:nth-child(2n+2) {
